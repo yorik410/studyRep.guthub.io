@@ -1,1 +1,1 @@
-# studyRep.guthub.io
+# studyrep.github.io
